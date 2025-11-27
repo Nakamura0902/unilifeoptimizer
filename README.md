@@ -76,6 +76,12 @@ Python学習・アプリ開発・就活ポートフォリオに最適。
 - グラフ／レコメンド表示  
 - スマホのホーム画面に追加で PWA 化可能
 
+## 🌐 デモ（Web版）
+
+Streamlitで動くデモはこちらから利用できます👇  
+https://unilifeoptimizer.streamlit.app
+
+
 ---
 
 ### 🔹 4. Mobile版（Kivy）
@@ -153,34 +159,40 @@ Web版（Streamlit）をデプロイして
 ## 画面イメージ
 
 ### Web版 
-(images/web1.png)
-(images/web2.png)
-(images/web3.png)
-(images/web4.png)
-(images/web5.png)
+![web](images/web1.png)
+![web](images/web2.png)
+![web](images/web3.png)
+![web](images/web4.png)
+![web](images/web5.png)
 
 
 ### GUI版 
-(images/gui1.png)
-(images/gui2.png)
-(images/gui3.png)
-(images/gui4.png)
-(images/gui5.png)
+![gui](images/gui1.png)
+![gui](images/gui2.png)
+![gui](images/gui3.png)
+![gui](images/gui4.png)
+![gui](images/gui5.png)
 
 ### APP版 
-(images/app1.png)
-(images/app2.png)
+![app](images/app1.png)
+![app](images/app2.png)
 
 
-# 🧩 今後のアップデート案
-- 期間フィルター（今日 / 週間 / 月間）  
-- AIによる学習計画レコメンド  
-- カテゴリカラー設定  
-- ダークモードテーマ  
-- KivyでのタブUI  
-- Buildozerで APK 配布版
+## ✅ TODO / Roadmap
 
----
+- [x] CLI版の実装
+- [x] GUI版（Tkinter）の実装
+- [x] Web版（Streamlit）の実装
+- [x] Mobile版（Kivy）の実装
+- [x] グラフ機能（棒・円）
+- [x] CSV出力機能（Excel対応）
+- [ ] 期間フィルター（今日 / 週間 / 月間）
+- [ ] ダークモード対応
+- [ ] Web版のタグ管理
+- [ ] GUI版の見た目改善
+- [ ] Kivy版のタブUI
+- [ ] ログイン機能の追加
+
 
 # 📄 ライセンス
 MIT License
