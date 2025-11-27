@@ -150,6 +150,27 @@ Web版（Streamlit）をデプロイして
 **→ アプリみたいに使える（PWA化）**
 
 ---
+## 画面イメージ
+
+### Web版 
+(images/web1.png)
+(images/web2.png)
+(images/web3.png)
+(images/web4.png)
+(images/web5.png)
+
+
+### GUI版 
+(images/gui1.png)
+(images/gui2.png)
+(images/gui3.png)
+(images/gui4.png)
+(images/gui5.png)
+
+### APP版 
+(images/app1.png)
+(images/app2.png)
+
 
 # 🧩 今後のアップデート案
 - 期間フィルター（今日 / 週間 / 月間）  
